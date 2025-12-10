@@ -20,8 +20,6 @@ Practical work 12
 ├── logout.php
 ```
 
-
-<br>
 <br>
 
 

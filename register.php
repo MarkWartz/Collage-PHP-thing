@@ -43,8 +43,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     }
     
     if ($isFieldError !== true) {
-        $users = loadData("users.json");
-        foreach($users as $user) {
+        $usersData = loadData("users.json");
+        foreach($usersData as $user) {
             if ($user["username"] === $username) {
                 $generalError = "Пользователь с таким именем уже существует ";
                 break;

@@ -17,7 +17,7 @@ Practical work 12
 │   └── User.php
 ├── index.php
 ├── login.php
-├── logout.php
+└── logout.php
 ```
 
 <br>
@@ -33,10 +33,6 @@ This project is built with PHP for educational purposes. It demonstrates my know
 Проект создан на PHP в образовательных целях. Он служит демонстрацией моих знаний в области серверной разработки, а также навыков работы с GitHub в рамках моего обучения в колледже.
 
 <br>
-<br>
-<br>
-
-
 
 ![Логотип](Снимок%20экрана%20от%202025-12-10%2016-26-04.png)
 ![Логотип](Снимок%20экрана%20от%202025-12-10%2016-26-24.png)

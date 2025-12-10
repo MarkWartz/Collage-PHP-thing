@@ -24,10 +24,20 @@ Practical work 12
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
+
+[🇷🇺 Русская версия](#русская-версия) | [🇬🇧 English version](#english-version)
+
+
+## 🇬🇧 English version
+This project is built with PHP for educational purposes. It demonstrates my knowledge of server-side development as well as my skills in working with GitHub as part of my college studies.
+
+## 🇷🇺 Русская версия
+Проект создан на PHP в образовательных целях. Он служит демонстрацией моих знаний в области серверной разработки, а также навыков работы с GitHub в рамках моего обучения в колледже.
+
+<br>
+<br>
+<br>
 
 
 

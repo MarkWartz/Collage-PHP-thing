@@ -23,7 +23,6 @@ Practical work 12
 
 <br>
 <br>
-<br>
 
 
 [🇷🇺 Русская версия](#-русская-версия) | [🇬🇧 English version](#-english-version)

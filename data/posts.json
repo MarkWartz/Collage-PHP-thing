@@ -1,0 +1,33 @@
+{
+    "posts": [
+        {
+            "id": "post_691712a19d1284.84303340",
+            "title": "Моя первая запись!",
+            "content": "Привет мир!",
+            "author_id": "user_691712775a5d49.42575861",
+            "username": "admin",
+            "created_at": "2025-11-14 14:29:37",
+            "media": []
+        },
+        {
+            "id": "post_69396d83411de5.26044169",
+            "title": "Пост 2",
+            "content": "Содержимое поста 2",
+            "author_id": "user_69388a0a4a7247.91514500",
+            "username": "Mark",
+            "created_at": "2025-12-10 13:54:27",
+            "media": []
+        },
+        {
+            "id": "post_69396da588e664.30181873",
+            "title": "Пост 3",
+            "content": "Пост 3",
+            "author_id": "user_69388a0a4a7247.91514500",
+            "username": "Mark",
+            "created_at": "2025-12-10 13:55:01",
+            "media": [
+                "uploads\/img_69396da588e039.99254845.png"
+            ]
+        }
+    ]
+}
